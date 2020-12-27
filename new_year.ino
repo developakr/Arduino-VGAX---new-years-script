@@ -2,7 +2,7 @@
 
 //font generated from BITFONZI - by Sandro Maffiodo
 //https://github.com/smaffer
-//New Years script - by DevelopAKR
+//New Year script - by DevelopAKR
 //https://github.com/developakr
 
 #define FNT_NANOFONT_HEIGHT 6
